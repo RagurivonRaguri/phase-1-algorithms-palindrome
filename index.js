@@ -3,7 +3,8 @@ function isPalindrome(word) {
 return lowerCaseWord === lowerCaseWord.split('').reverse().join('')
 }
 
-
+// A palindrome is a word, phrase, number, or other sequence of characters that reads the same backward
+//  as forward. For example, "racecar" is a palindrome because it reads the same backward as forward.
 /* 
   Add your pseudocode 
   Create funtion'isPalindrome(str)
